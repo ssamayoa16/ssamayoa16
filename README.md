@@ -8,3 +8,7 @@
 - 📫 How to reach me: sebsamayoa16@gmail.com
 - 😄 Pronouns: He/him
 -->
+
+  ## Skills:
+  https://img.shields.io/badge/ProjectManager
+
