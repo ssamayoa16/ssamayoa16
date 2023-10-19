@@ -12,4 +12,6 @@
   ## Skills:
 [![Apple](https://img.shields.io/badge/Project_Manager-999999?style=for-the-badge=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/5+_Customer_service_experience-FA7343?style=for-the-badge=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge=android&=white&labelColor=101010)]()
+
 
