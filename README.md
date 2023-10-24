@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Sebastian. 
 - 🤔 I’m looking for help with certificates, tutorials, or courses that can help me to develop more skills for my future jobs.
 - 🔭 I’m currently working on creating an app for my personal usage.
 - ⚡ Fun fact: I don't like to be steady. I'm always looking for new things to try and think out of the box.
