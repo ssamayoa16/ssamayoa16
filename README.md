@@ -1,13 +1,12 @@
 ### Hi there, this is Sebastian. 
-- 🤔 I’m looking for help with certificates, tutorials, or courses that can help me to develop more skills for my future jobs.
-- 🔭 I’m currently working on creating an app for my personal usage.
-- ⚡ Fun fact: I don't like to be steady. I'm always looking for new things to try and think out of the box.
-- 🌱 I’m currently learning more ways to improve in GitHub, Python intermediate level, and Java Script.
-- 👯 I’m looking to collaborate on projects that have ongoing improvements.
-- 💬 Ask me about real estate, how to improve processes, customer service, and Project Management.
-- 📫 How to reach me: sebsamayoa16@gmail.com
+- 🤔 I'm seeking guidance on acquiring certificates, tutorials, or courses that can further enhance my skill set for future career opportunities.
+- 🔭 I'm presently engaged in the development of a personal app.
+- ⚡ Fun fact: I thrive on change and novelty, constantly exploring new horizons and thinking outside the box.
+- 🌱 I'm actively learning to refine my skills in GitHub, intermediate-level Python, and JavaScript.
+- 👯 I'm open to collaboration on projects that involve continuous enhancements and growth.
+- 💬 Feel free to reach out to me for insights on real estate, process improvement, customer service, and Project Management.
+- 📫 You can contact me at: sebsamayoa16@gmail.com
 - 😄 Pronouns: He/him
--->
 
   ## Skills:
 [![Apple](https://img.shields.io/badge/Project_Manager-FF0000?style=for-the-badge=white&labelColor=101010)]()
